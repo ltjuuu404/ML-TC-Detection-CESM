@@ -1,0 +1,60 @@
+﻿experiment,year,preprocessed_file,owz_track_file,included,reason
+CTL,31,E:\CESM_coupling_process\Hurricane\control\cesm_31.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year31.nc,True,included
+CTL,32,E:\CESM_coupling_process\Hurricane\control\cesm_32.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year32.nc,True,included
+CTL,33,E:\CESM_coupling_process\Hurricane\control\cesm_33.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year33.nc,True,included
+CTL,34,E:\CESM_coupling_process\Hurricane\control\cesm_34.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year34.nc,True,included
+CTL,35,E:\CESM_coupling_process\Hurricane\control\cesm_35.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year35.nc,True,included
+CTL,36,E:\CESM_coupling_process\Hurricane\control\cesm_36.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year36.nc,True,included
+CTL,37,E:\CESM_coupling_process\Hurricane\control\cesm_37.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year37.nc,True,included
+CTL,38,E:\CESM_coupling_process\Hurricane\control\cesm_38.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year38.nc,True,included
+CTL,39,E:\CESM_coupling_process\Hurricane\control\cesm_39.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year39.nc,True,included
+CTL,40,E:\CESM_coupling_process\Hurricane\control\cesm_40.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year40.nc,True,included
+CTL,41,E:\CESM_coupling_process\Hurricane\control\cesm_41.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year41.nc,True,included
+CTL,42,E:\CESM_coupling_process\Hurricane\control\cesm_42.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year42.nc,True,included
+CTL,43,E:\CESM_coupling_process\Hurricane\control\cesm_43.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year43.nc,True,included
+CTL,44,E:\CESM_coupling_process\Hurricane\control\cesm_44.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year44.nc,True,included
+CTL,45,E:\CESM_coupling_process\Hurricane\control\cesm_45.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year45.nc,True,included
+CTL,46,E:\CESM_coupling_process\Hurricane\control\cesm_46.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year46.nc,True,included
+CTL,47,E:\CESM_coupling_process\Hurricane\control\cesm_47.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year47.nc,True,included
+CTL,48,E:\CESM_coupling_process\Hurricane\control\cesm_48.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year48.nc,True,included
+CTL,49,E:\CESM_coupling_process\Hurricane\control\cesm_49.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year49.nc,True,included
+CTL,50,E:\CESM_coupling_process\Hurricane\control\cesm_50.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year50.nc,True,included
+CTL,51,E:\CESM_coupling_process\Hurricane\control\cesm_51.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year51.nc,True,included
+CTL,52,E:\CESM_coupling_process\Hurricane\control\cesm_52.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year52.nc,True,included
+CTL,53,E:\CESM_coupling_process\Hurricane\control\cesm_53.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year53.nc,True,included
+CTL,54,E:\CESM_coupling_process\Hurricane\control\cesm_54.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year54.nc,True,included
+CTL,55,E:\CESM_coupling_process\Hurricane\control\cesm_55.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year55.nc,True,included
+CTL,56,E:\CESM_coupling_process\Hurricane\control\cesm_56.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year56.nc,True,included
+CTL,57,E:\CESM_coupling_process\Hurricane\control\cesm_57.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year57.nc,True,included
+CTL,58,E:\CESM_coupling_process\Hurricane\control\cesm_58.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year58.nc,True,included
+CTL,59,E:\CESM_coupling_process\Hurricane\control\cesm_59.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year59.nc,True,included
+CTL,60,E:\CESM_coupling_process\Hurricane\control\cesm_60.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\control\systems_all_year60.nc,True,included
+GGW,90,E:\CESM_coupling_process\Hurricane\surface\cesm_90.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year90.nc,True,GGW year100 excluded globally
+GGW,91,E:\CESM_coupling_process\Hurricane\surface\cesm_91.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year91.nc,True,GGW year100 excluded globally
+GGW,92,E:\CESM_coupling_process\Hurricane\surface\cesm_92.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year92.nc,True,GGW year100 excluded globally
+GGW,93,E:\CESM_coupling_process\Hurricane\surface\cesm_93.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year93.nc,True,GGW year100 excluded globally
+GGW,94,E:\CESM_coupling_process\Hurricane\surface\cesm_94.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year94.nc,True,GGW year100 excluded globally
+GGW,95,E:\CESM_coupling_process\Hurricane\surface\cesm_95.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year95.nc,True,GGW year100 excluded globally
+GGW,96,E:\CESM_coupling_process\Hurricane\surface\cesm_96.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year96.nc,True,GGW year100 excluded globally
+GGW,97,E:\CESM_coupling_process\Hurricane\surface\cesm_97.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year97.nc,True,GGW year100 excluded globally
+GGW,98,E:\CESM_coupling_process\Hurricane\surface\cesm_98.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year98.nc,True,GGW year100 excluded globally
+GGW,99,E:\CESM_coupling_process\Hurricane\surface\cesm_99.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year99.nc,True,GGW year100 excluded globally
+GGW,101,E:\CESM_coupling_process\Hurricane\surface\cesm_101.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year101.nc,True,GGW year100 excluded globally
+GGW,102,E:\CESM_coupling_process\Hurricane\surface\cesm_102.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year102.nc,True,GGW year100 excluded globally
+GGW,103,E:\CESM_coupling_process\Hurricane\surface\cesm_103.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year103.nc,True,GGW year100 excluded globally
+GGW,104,E:\CESM_coupling_process\Hurricane\surface\cesm_104.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year104.nc,True,GGW year100 excluded globally
+GGW,105,E:\CESM_coupling_process\Hurricane\surface\cesm_105.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year105.nc,True,GGW year100 excluded globally
+GGW,106,E:\CESM_coupling_process\Hurricane\surface\cesm_106.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year106.nc,True,GGW year100 excluded globally
+GGW,107,E:\CESM_coupling_process\Hurricane\surface\cesm_107.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year107.nc,True,GGW year100 excluded globally
+GGW,108,E:\CESM_coupling_process\Hurricane\surface\cesm_108.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year108.nc,True,GGW year100 excluded globally
+GGW,109,E:\CESM_coupling_process\Hurricane\surface\cesm_109.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year109.nc,True,GGW year100 excluded globally
+GGW,110,E:\CESM_coupling_process\Hurricane\surface\cesm_110.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year110.nc,True,GGW year100 excluded globally
+GGW,111,E:\CESM_coupling_process\Hurricane\surface\cesm_111.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year111.nc,True,GGW year100 excluded globally
+GGW,112,E:\CESM_coupling_process\Hurricane\surface\cesm_112.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year112.nc,True,GGW year100 excluded globally
+GGW,113,E:\CESM_coupling_process\Hurricane\surface\cesm_113.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year113.nc,True,GGW year100 excluded globally
+GGW,114,E:\CESM_coupling_process\Hurricane\surface\cesm_114.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year114.nc,True,GGW year100 excluded globally
+GGW,115,E:\CESM_coupling_process\Hurricane\surface\cesm_115.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year115.nc,True,GGW year100 excluded globally
+GGW,116,E:\CESM_coupling_process\Hurricane\surface\cesm_116.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year116.nc,True,GGW year100 excluded globally
+GGW,117,E:\CESM_coupling_process\Hurricane\surface\cesm_117.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year117.nc,True,GGW year100 excluded globally
+GGW,118,E:\CESM_coupling_process\Hurricane\surface\cesm_118.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year118.nc,True,GGW year100 excluded globally
+GGW,119,E:\CESM_coupling_process\Hurricane\surface\cesm_119.nc,E:\CESM_coupling_process\Hurricane\result_onceagain_dynamic_differentarea\surface\systems_all_year119.nc,True,GGW year100 excluded globally

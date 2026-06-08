@@ -1,0 +1,11 @@
+{
+  "year100_policy": "GGW year100 excluded throughout.",
+  "ml_track_points": 15099,
+  "owz_track_points_jas_na": 26275,
+  "summary_csv": "G:\\machine_learning\\tc_detect_svr\\reports\\ml_vs_owz_experiment_summary.csv",
+  "yearly_csv": "G:\\machine_learning\\tc_detect_svr\\reports\\ml_vs_owz_yearly_summary.csv",
+  "figures": [
+    "G:\\machine_learning\\tc_detect_svr\\figures\\ml_vs_owz_mdr_genesis_counts.png",
+    "G:\\machine_learning\\tc_detect_svr\\figures\\ml_vs_owz_track_density_panels.png"
+  ]
+}

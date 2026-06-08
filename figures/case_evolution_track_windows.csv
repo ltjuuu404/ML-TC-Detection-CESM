@@ -1,0 +1,10 @@
+case,experiment,year,method,track_id,role,start_time_index,end_time_index,start_label,end_label,n_points,ml_track_ids_plotted,owz_track_ids_plotted,panel_stride_time_steps,output_figure
+common,GGW,109,ML,ML_GGW_109_0007,target,879,965,08-08 18Z,08-30 06Z,80,ML_GGW_109_0007,OWZ_GGW_109_0177,4,G:\machine_learning\tc_detect_svr\figures\fig09_common_case_daily_evolution.png
+common,GGW,109,OWZ,OWZ_GGW_109_0177,target,911,952,08-16 18Z,08-27 00Z,42,ML_GGW_109_0007,OWZ_GGW_109_0177,4,G:\machine_learning\tc_detect_svr\figures\fig09_common_case_daily_evolution.png
+ml_only,CTL,35,ML,ML_CTL_35_0004,target,842,928,07-30 12Z,08-21 00Z,87,ML_CTL_35_0004,OWZ_CTL_35_0142;OWZ_CTL_35_0130,4,G:\machine_learning\tc_detect_svr\figures\fig10_ml_only_case_daily_evolution.png
+ml_only,CTL,35,OWZ,OWZ_CTL_35_0130,nearby_companion,873,888,08-07 06Z,08-11 00Z,16,ML_CTL_35_0004,OWZ_CTL_35_0142;OWZ_CTL_35_0130,4,G:\machine_learning\tc_detect_svr\figures\fig10_ml_only_case_daily_evolution.png
+ml_only,CTL,35,OWZ,OWZ_CTL_35_0142,nearby_companion,903,917,08-14 18Z,08-18 06Z,15,ML_CTL_35_0004,OWZ_CTL_35_0142;OWZ_CTL_35_0130,4,G:\machine_learning\tc_detect_svr\figures\fig10_ml_only_case_daily_evolution.png
+owz_only,CTL,48,ML,ML_CTL_48_0006,nearby_companion,855,911,08-02 18Z,08-16 18Z,56,ML_CTL_48_0006,OWZ_CTL_48_0174,4,G:\machine_learning\tc_detect_svr\figures\fig11_owz_only_case_daily_evolution.png
+owz_only,CTL,48,OWZ,OWZ_CTL_48_0174,target,864,918,08-05 00Z,08-18 12Z,55,ML_CTL_48_0006,OWZ_CTL_48_0174,4,G:\machine_learning\tc_detect_svr\figures\fig11_owz_only_case_daily_evolution.png
+true_ml_only,CTL,31,ML,ML_CTL_31_0003,target,843,888,07-30 18Z,08-11 00Z,45,ML_CTL_31_0003,,4,G:\machine_learning\tc_detect_svr\figures\fig12_true_ml_only_case_daily_evolution.png
+true_owz_only,CTL,31,OWZ,OWZ_CTL_31_0106,target,850,899,08-01 12Z,08-13 18Z,50,,OWZ_CTL_31_0106,4,G:\machine_learning\tc_detect_svr\figures\fig13_true_owz_only_case_daily_evolution.png

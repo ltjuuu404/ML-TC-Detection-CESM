@@ -1,0 +1,69 @@
+{
+  "year100_policy": "GGW year100 excluded from all CESM manifests and OWZ comparisons.",
+  "files": {
+    "ibtracs_track_points": "G:\\machine_learning\\tc_detect_svr\\data\\ibtracs_na_jas_1991_2020_track_points.csv",
+    "obs_detection_features": "G:\\machine_learning\\tc_detect_svr\\data\\obs_detection_samples_features.csv",
+    "cesm_ctl_background_samples": "G:\\machine_learning\\tc_detect_svr\\data\\cesm_ctl_background_samples.csv",
+    "training_detection_samples": "G:\\machine_learning\\tc_detect_svr\\data\\training_detection_samples.csv",
+    "svr_path_samples": "G:\\machine_learning\\tc_detect_svr\\data\\svr_path_samples.csv",
+    "detection_metrics": "G:\\machine_learning\\tc_detect_svr\\reports\\detection_model_metrics.csv",
+    "path_metrics": "G:\\machine_learning\\tc_detect_svr\\reports\\svr_path_metrics.csv"
+  },
+  "n": {
+    "ibtracs_track_points": 8751,
+    "obs_feature_samples": 13251,
+    "cesm_ctl_background_samples": 700,
+    "training_detection_samples": 13951,
+    "path_samples": 28878
+  },
+  "best_detection": {
+    "model": "svc_rbf",
+    "n_train": 9000,
+    "n_test_obs": 2636,
+    "accuracy": 0.9673748103186647,
+    "precision": 0.9859943977591037,
+    "recall": 0.9665019220208677,
+    "f1": 0.9761508596783139,
+    "roc_auc": 0.9961613486825482,
+    "average_precision": 0.9982178057592067,
+    "brier": 0.037630011779317143
+  },
+  "best_svr_by_lead": [
+    {
+      "lead_h": 6,
+      "model": "SVR",
+      "kernel": "linear",
+      "n_train": 2500,
+      "n_test": 1611,
+      "ate_mean_km": 25.20733370495498,
+      "ate_median_km": 20.226183120204528
+    },
+    {
+      "lead_h": 12,
+      "model": "SVR",
+      "kernel": "linear",
+      "n_train": 2500,
+      "n_test": 1542,
+      "ate_mean_km": 61.01719599619034,
+      "ate_median_km": 50.31602084197826
+    },
+    {
+      "lead_h": 18,
+      "model": "SVR",
+      "kernel": "linear",
+      "n_train": 2500,
+      "n_test": 1474,
+      "ate_mean_km": 104.90894947629809,
+      "ate_median_km": 86.90016239127203
+    },
+    {
+      "lead_h": 24,
+      "model": "SVR",
+      "kernel": "linear",
+      "n_train": 2500,
+      "n_test": 1411,
+      "ate_mean_km": 155.79779451813874,
+      "ate_median_km": 128.46922708163103
+    }
+  ]
+}

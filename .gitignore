@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+.conda/
+
+# Large raw climate data should not be committed
+*.nc
+*.nc4
+*.grib
+*.grb
+*.h5
+*.hdf5
+raw_data/
+external_data/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+~$*
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
